@@ -1,0 +1,19 @@
+[submodule "loongarch64-linux-gnu-gcc-libc"]
+	path = loongarch64-linux-gnu-gcc-libc
+	url = ssh://aur@aur.archlinux.org/loongarch64-linux-gnu-gcc-libc.git
+
+[submodule "ttf-lxgw-fasmart-gothic"]
+	path = ttf-lxgw-fasmart-gothic
+	url = ssh://aur@aur.archlinux.org/ttf-lxgw-fasmart-gothic.git
+
+[submodule "ttf-lxgw-neo-xihei"]
+	path = ttf-lxgw-neo-xihei
+	url = ssh://aur@aur.archlinux.org/ttf-lxgw-neo-xihei.git
+
+[submodule "ttf-lxgw-neo-xihei-screen"]
+	path = ttf-lxgw-neo-xihei-screen
+	url = ssh://aur@aur.archlinux.org/ttf-lxgw-neo-xihei-screen.git
+
+[submodule "ttf-zpix"]
+	path = ttf-zpix
+	url = ssh://aur@aur.archlinux.org/ttf-zpix.git
