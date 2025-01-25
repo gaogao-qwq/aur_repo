@@ -10,6 +10,10 @@
 	path = ttf-lxgw-neo-xihei
 	url = ssh://aur@aur.archlinux.org/ttf-lxgw-neo-xihei.git
 
+[submodule "ttf-lxgw-neo-xihei-plus"]
+	path = ttf-lxgw-neo-xihei-plus
+	url = ssh://aur@aur.archlinux.org/ttf-lxgw-neo-xihei-plus.git
+
 [submodule "ttf-lxgw-neo-xihei-screen"]
 	path = ttf-lxgw-neo-xihei-screen
 	url = ssh://aur@aur.archlinux.org/ttf-lxgw-neo-xihei-screen.git
